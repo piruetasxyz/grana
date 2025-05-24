@@ -24,6 +24,8 @@ sinte granular desarrolado por Matías Serrano y Aarón Montoya.
 
 ### Salidas
 
+- Salida de audio: jack TRS de 3.5 mm, dual-mono.
+
 ## Hardware
 
 Basado en una Raspberry Pi Pico 2, con un chip RP2050.
