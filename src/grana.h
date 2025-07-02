@@ -4,6 +4,7 @@
 
 // import libraries
 #include <stdio.h>
+#include "pico/stdlib.h"
 
 class Grana {
 public:
